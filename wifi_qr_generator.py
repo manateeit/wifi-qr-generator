@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/chrismckenna/development/wifi_code_gen/wifi/bin/python
 
 import qrcode
 import argparse

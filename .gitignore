@@ -1,0 +1,20 @@
+# Python virtual environment
+wifi/
+
+# Generated QR codes
+*.png
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp 
